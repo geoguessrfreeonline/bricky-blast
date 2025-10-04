@@ -26,7 +26,7 @@ Every round feels fresh — can you reach a new high score?
 
 ---
 
-## 🔗 Play Now
+## 🔗 Play Now ://geoguessr.free/bricky-blast](https://geoguessr.free/bricky-blast)
 👉 [https![bricky-blast](https://github.com/user-attachments/assets/32eba7b1-c71f-4ba9-9bd9-3cb4d270d528)
-://geoguessr.free/bricky-blast](https://geoguessr.free/bricky-blast)
+
 #ArcadeGame #PuzzleGame #BrickBreaker #CasualGaming
